@@ -1,0 +1,36 @@
+body
+{ 
+    font-family: times new roman;
+    font-size: 20px;
+	background-color:coral
+}
+#intro{
+	font-size: large;
+	text-align:start;
+	font-size: x-large;
+}
+#heading
+{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 2rem;
+	text-align: center;
+}
+#formy{
+	margin-left: 30rem;
+	margin-right: 33rem;
+	padding-left: 2rem;
+	padding-top: 1rem;
+	padding-right: 1rem;
+	padding-bottom: 1rem;
+}
+#para
+{
+	text-align:center;
+	font-size: xx-large;
+}
+#table1{
+	margin-left: 30rem;
+}
+h2{
+	text-align: center;
+}
